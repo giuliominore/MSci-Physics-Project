@@ -1,5 +1,4 @@
 # MSci-Physics-Project
-by Giulio Minore
 This repository contains Python programs for the 2021 Project that was undertaken at UCL
 
 -LArTPC is the program that was built to simulate supernova neutrino events in the Deep Underground Neutrino Experiment
